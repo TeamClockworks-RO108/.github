@@ -9,4 +9,4 @@ We are the official Github organization for FTC team Clockworks RO-108, competin
 * For other reasons, you can write to us on our Instagram page ``ro108clockworks``
 
 ## 🖥️ Current activity
-### Current season: ``🐬 INTO THE DEEP``
+### Current season: ``🐬 INTO THE DEEP (OFF-SEASON)``
