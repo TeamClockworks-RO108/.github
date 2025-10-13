@@ -11,7 +11,7 @@ We beelieve in both open-source hardware and software and we strive to publish o
 ### Season: ``🐬 DECODE``
 
 ### [Planetary Starkiller](https://wiki.teamclockworks.ro/en/Projects/Starkiller): Turn any GoBilda motor into a faster one by locking planetary stages together!
-### [Planetary Starspinner](https://wiki.teamclockworks.ro/en/Projects/Starspinner): COMING SOON!
+### [Planetary Starspinner](https://wiki.teamclockworks.ro/en/Projects/Starspinner): Turn a 84 RPM GoBilda motor into 4200 or 8000 RPM!
 ### [KlipperScripts](https://github.com/TeamClockworks-RO108/KlipperScripts): Useful klipper macros that deal with heatsoaking and print lifecycle
 ### [PrusaSlicerConfig](https://github.com/TeamClockworks-RO108/PrusaSlicerConfig): PrusaSlicer configurations for our Voron printers 
 
