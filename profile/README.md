@@ -15,7 +15,7 @@ We beelieve in both open-source hardware and software and we strive to publish o
 ### [KlipperScripts](https://github.com/TeamClockworks-RO108/KlipperScripts): Useful klipper macros that deal with heatsoaking and print lifecycle
 ### [PrusaSlicerConfig](https://github.com/TeamClockworks-RO108/PrusaSlicerConfig): PrusaSlicer configurations for our Voron printers 
 
-### [Boron](https://github.com/TeamClockworks-RO108/Boron): CMOING SOON!!! 📦🧊⛏️
+### [Boron](https://github.com/TeamClockworks-RO108/Boron): COMING SOON!!! 📦🧊⛏️
 
 
 
