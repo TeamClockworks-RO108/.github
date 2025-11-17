@@ -9,6 +9,7 @@ We believe in both open-source hardware and software and we strive to publish ou
 Voron printers are the backbone of our innovation machine. We are continously building more and more projects and mods:
 
 | 🔧 Filametrix Axon servo actuated depressor | 🗺️ DragonBurner Cartographer/Beacon mount | ⚙️ Stepper Blobifier | 🖥️ BTT HDMI5 V1.2 display mount (Clicky-Clack, more USB space) | 📷 Voron 0 Raspberry Pi Camera Mount (upside down mounting) |
+| --- |
 
 
 
