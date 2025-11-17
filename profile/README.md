@@ -4,7 +4,12 @@
 
 We are the official Github organization for FTC team Clockworks RO-108, competing every year and trying to aim further each time. We are formed of 15 **official members**, from __3 separate departments.__
 
-We beelieve in both open-source hardware and software and we strive to publish our innovations, developments and efforts into open-source projects on this profile. 
+We believe in both open-source hardware and software and we strive to publish our innovations, developments and efforts into open-source projects on this profile. 
+
+Voron printers are the backbone of our innovation machine. We are continously building more and more projects and mods:
+
+| 🔧 Filametrix Axon servo actuated depressor | 🗺️ DragonBurner Cartographer/Beacon mount | ⚙️ Stepper Blobifier | 🖥️ BTT HDMI5 V1.2 display mount (Clicky-Clack, more USB space) | 📷 Voron 0 Raspberry Pi Camera Mount (upside down mounting) |
+
 
 
 ## 🖥️ Latest developments
