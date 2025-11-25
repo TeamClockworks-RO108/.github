@@ -21,7 +21,7 @@ Voron printers are the backbone of our innovation machine. We are continously bu
 ### [KlipperScripts](https://github.com/TeamClockworks-RO108/KlipperScripts): Useful klipper macros that deal with heatsoaking and print lifecycle
 ### [PrusaSlicerConfig](https://github.com/TeamClockworks-RO108/PrusaSlicerConfig): PrusaSlicer configurations for our Voron printers 
 
-### [Boron](https://github.com/TeamClockworks-RO108/Boron): COMING SOON!!! 📦🧊⛏️
+### [Boron](https://github.com/TeamClockworks-RO108/Boron): 🧊 Open-Source light cube with hot swappable branding elements 
 
 
 
